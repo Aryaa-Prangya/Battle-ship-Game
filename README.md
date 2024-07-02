@@ -10,8 +10,7 @@ Battleship is a strategic guessing game where players place ships on a grid and 
 
 
 # Interface of the battleship game
-![Screenshot 2024-07-02 132209](https://github.com/Aryaa-Prangya/Battle-ship-Game/assets/138790828/c14c9a9b-4a4b-42c3-b5ea-9b6d68578eb7)
-
+![image](https://github.com/Aryaa-Prangya/Battle-ship-Game/assets/138790828/985bbc86-e36d-4d24-a240-b6efd044cdc8)
 
 
 ![Screenshot 2024-07-02 132225](https://github.com/Aryaa-Prangya/Battle-ship-Game/assets/138790828/c4d60388-6888-44b7-b8dc-b60c0ce884a9)
